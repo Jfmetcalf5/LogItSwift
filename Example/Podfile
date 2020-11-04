@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LogItSwift_Example' do
+  pod 'LogItSwift', :path => '../'
+
+  target 'LogItSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
