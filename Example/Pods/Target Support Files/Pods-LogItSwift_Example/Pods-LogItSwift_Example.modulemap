@@ -1,0 +1,6 @@
+framework module Pods_LogItSwift_Example {
+  umbrella header "Pods-LogItSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

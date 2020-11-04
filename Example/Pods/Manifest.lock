@@ -1,0 +1,16 @@
+PODS:
+  - LogItSwift (0.1.0)
+
+DEPENDENCIES:
+  - LogItSwift (from `../`)
+
+EXTERNAL SOURCES:
+  LogItSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LogItSwift: 5bc591f86cc3c020e37e529ba58c7b7e403286ea
+
+PODFILE CHECKSUM: bdcb491840ad1a3cffd593f1c6b97b1b41d1244c
+
+COCOAPODS: 1.9.3
